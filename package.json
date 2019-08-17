@@ -1,6 +1,6 @@
 {
 	"name": "language-gcode-fff",
-	"version": "1.0.0",
+	"version": "0.0.0",
 	"description": "G-code grammar for fused filament fabrication (FFF) 3D printing",
 	"keywords": [
 		"language",
