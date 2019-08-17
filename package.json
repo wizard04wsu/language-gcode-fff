@@ -1,6 +1,6 @@
 {
 	"name": "language-gcode-fff",
-	"version": "1.0.0",
+	"version": "0.0.0",
 	"description": "G-code grammar for fused filament fabrication (FFF) 3D printing",
 	"keywords": [
 		"language",
@@ -13,7 +13,7 @@
 	"bugs": "https://github.com/wizard04wsu/language-gcode-fff/issues",
 	"license": {
 		"name": "MIT",
-		"url": "https://github.com/wizard04wsu/language-gcode-fff/blob/master/LICENSE"
+		"url": "https://github.com/wizard04wsu/language-gcode-fff/blob/master/LICENSE.md"
 	},
 	"author": {
 		"name": "Andy Harrison",
