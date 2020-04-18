@@ -28,7 +28,7 @@ repository:
 		patterns: [
 			{
 				#parameter name (single letter) followed by number
-				match: '(?i)\\s([A-Z])([-+]?(?:\\d+(?:\\.\\d*)?|\\.\\d+))(?=\\s|;|$)'
+				match: '(?i)\\s([A-Z])(-?(?:\\d+(?:\\.\\d*)?|\\.\\d+))(?=\\s|;|$)'
 				captures:
 					1:
 						patterns: [
